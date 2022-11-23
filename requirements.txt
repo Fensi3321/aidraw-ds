@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-datasets
+jupyterlab
+pillow
+matplotlib
+pyyaml 
+h5py
+scikit-learn
+opencv-python
