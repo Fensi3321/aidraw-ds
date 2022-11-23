@@ -1,2 +1,4 @@
 mymodel/
 venv/
+api/__pycache__/api.cpython-39.pyc
+api/image.png
