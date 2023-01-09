@@ -9,10 +9,7 @@ import base64
 model_path = "../my_model"
 model = tf.keras.models.load_model(model_path)
 
-origins = [
-    "http://localhost",
-    "http://localhost:5173",
-]
+origins = ['*']
 
 app = FastAPI()
 
